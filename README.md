@@ -8,5 +8,5 @@
 <code>🧑‍💻 Languages: C++, Python</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
+<code>💬 telegram: [@margo_ponomarenko](https://t.me/margo_ponomarenko)</code>
 <code>📫 [margo.marharet@gmail.com](mailto:margo.marharet@gmail.com)</code>
